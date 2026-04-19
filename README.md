@@ -1,3 +1,12 @@
+# Totem Poles Microcosm
+
+Forked from https://github.com/watmildon/microcosm by @almccon.
+
+A GeoJSON extract of totem poles from OpenStreetMap, updated daily.
+
+Original README follows:
+
+
 # Microcosm
 
 Get a GeoJSON file of OpenStreetMap data, updated nightly, by writing one Overpass query. Useful for any occassion where you need a very narrow slice of OSM data (10's of MB) but don't need it to fresh to the minute.
