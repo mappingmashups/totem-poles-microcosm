@@ -1,3 +1,4 @@
+[out:json][timeout:300]
 ---
 style:
   extends: https://tiles.stadiamaps.com/styles/stamen_terrain.json
@@ -56,4 +57,4 @@ For faster performance, use these non-fuzzy name matches instead:
 
 );
 
-out geom;
+out center body;
