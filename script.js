@@ -29,7 +29,27 @@ function createFeatureCollection(features) {
     };
 }
 
+function formatProperties(properties) {
+    let html = '';
+    for (const [key, value] of Object.entries(properties)) {
+        let displayValue = value;
+        if (typeof value === 'string' && (value.startsWith('http://') || value.startsWith('https://'))) {
+            displayValue = `<a href="${value}" target="_blank">${value}</a>`;
+        } else if (key === '@id') {
+            const link = `https://www.openstreetmap.org/${value}`;
+            displayValue = `<a href="${link}" target="_blank">${value}</a>`;
+        }
+        html += `<strong>${key}:</strong> ${displayValue}<br>`;
+    }
+    return html;
+}
+
 map.on('load', () => {
+    const popup = new maplibregl.Popup({
+        closeButton: true,
+        closeOnClick: true
+    });
+
     fetch('./data.geojson')
         .then((response) => response.json())
         .then((data) => {
@@ -123,6 +143,52 @@ map.on('load', () => {
                     'circle-radius': 4,
                     //'circle-opacity': 0.3,
                 },
+            });
+
+            map.addLayer({
+                id: 'totempoles-group-3-hit',
+                type: 'circle',
+                source: 'totempoles-group-3',
+                paint: {
+                    'circle-color': '#000000',
+                    'circle-radius': 10,
+                    'circle-opacity': 0,
+                },
+            });
+
+            map.addLayer({
+                id: 'totempoles-group-2-hit',
+                type: 'circle',
+                source: 'totempoles-group-2',
+                paint: {
+                    'circle-color': '#000000',
+                    'circle-radius': 10,
+                    'circle-opacity': 0,
+                },
+            });
+
+            map.addLayer({
+                id: 'totempoles-group-1-hit',
+                type: 'circle',
+                source: 'totempoles-group-1',
+                paint: {
+                    'circle-color': '#000000',
+                    'circle-radius': 10,
+                    'circle-opacity': 0,
+                },
+            });
+
+            ['totempoles-group-3-hit', 'totempoles-group-2-hit', 'totempoles-group-1-hit'].forEach(layerId => {
+                map.on('mouseenter', layerId, (e) => {
+                    map.getCanvas().style.cursor = 'pointer';
+                    const feature = e.features[0];
+                    const properties = feature.properties;
+                    const html = formatProperties(properties);
+                    popup.setLngLat(e.lngLat).setHTML(html).addTo(map);
+                });
+                map.on('mouseleave', layerId, (e) => {
+                    map.getCanvas().style.cursor = '';
+                });
             });
         })
         .catch((error) => {
