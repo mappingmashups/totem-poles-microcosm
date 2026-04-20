@@ -7090,8 +7090,13 @@
         ]
       },
       "properties": {
+        "artist:wikidata": "Q111031936",
+        "artist_name": "Jewell James;Ramona James",
         "artwork_type": "totem_pole",
+        "direction": "30",
+        "inscription": "CARVED AND PRESENTED BY JEWELL JAMES AND HIS WIFE RAMONA IN MEMORY OF HER MOTHER AND IN RECOGNITION OF MOLES FAMILY SERVICES\nOVER 60 YEARS OF CARING FOR LUMMI FAMILIES",
         "material": "wood",
+        "name": "Raven",
         "tourism": "artwork",
         "@id": "node/13064334784",
         "@type": "node"
@@ -8731,6 +8736,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.6232073,
+          48.7947246
+        ]
+      },
+      "properties": {
+        "artwork_type": "totem_pole",
+        "material": "wood",
+        "note": "Totem pole is attached to a post supporting the overhanging part of the new medical center here.",
+        "painted": "yes",
+        "tourism": "artwork",
+        "@id": "node/13744076673",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.8184749,
           44.5641024
         ]
@@ -10286,6 +10310,26 @@
         "start_date": "2009",
         "tourism": "artwork",
         "@id": "way/1463802398",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6133397,
+          48.7940256
+        ]
+      },
+      "properties": {
+        "area": "yes",
+        "artwork_subject": "orca",
+        "artwork_type": "totem_pole",
+        "direction": "160",
+        "orientation": "horizontal",
+        "tourism": "artwork",
+        "@id": "way/1501250153",
         "@type": "way"
       }
     },
