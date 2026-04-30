@@ -3175,6 +3175,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -123.0161006,
+          48.5361439
+        ]
+      },
+      "properties": {
+        "artist:wikidata": "Q16151913",
+        "artist_name": "Susan Point",
+        "artwork_type": "totem_pole",
+        "material": "Red Cedar",
+        "name": "Interaction",
+        "start_date": "2004-05-22",
+        "tourism": "artwork",
+        "@id": "node/7929120617",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -82.3407985,
           38.4099915
         ]
@@ -8782,6 +8803,1613 @@
         "tourism": "artwork",
         "@id": "node/13747280653",
         "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8184749,
+          44.5641024
+        ]
+      },
+      "properties": {
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "Totem Pole Road",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Linn, OR",
+        "tiger:name_base": "Totem Pole",
+        "tiger:name_type": "Rd",
+        "tiger:reviewed": "no",
+        "@id": "way/5501042",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1559542,
+          47.8928518
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Totem Pole Road",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Chelan, WA",
+        "tiger:name_base": "Totem Pole",
+        "tiger:name_type": "Rd",
+        "tiger:reviewed": "no",
+        "@id": "way/5849070",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1684444,
+          47.9036859
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Totem Pole Road",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Chelan, WA",
+        "tiger:name_base": "Totem Pole",
+        "tiger:name_type": "Rd",
+        "tiger:reviewed": "no",
+        "@id": "way/5849071",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1568877,
+          47.8876081
+        ]
+      },
+      "properties": {
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "Totem Pole Road",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Chelan, WA",
+        "tiger:name_base": "Totem Pole",
+        "tiger:name_type": "Rd",
+        "tiger:reviewed": "no",
+        "@id": "way/5849075",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1627877,
+          47.8983523
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Totem Pole Road",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Chelan, WA",
+        "tiger:name_base": "Totem Pole",
+        "tiger:name_type": "Rd",
+        "tiger:reviewed": "no",
+        "@id": "way/5849076",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1590105,
+          47.8956071
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Totem Pole Road",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Chelan, WA",
+        "tiger:name_base": "Totem Pole",
+        "tiger:name_type": "Rd",
+        "tiger:reviewed": "no",
+        "@id": "way/5849077",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3818146,
+          47.7794716
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Totem Pole Lane",
+        "@id": "way/6136118",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5853945,
+          40.8129995
+        ]
+      },
+      "properties": {
+        "access": "private",
+        "highway": "residential",
+        "maxspeed": "5 mph",
+        "name": "Totem Pole Lane",
+        "oneway": "no",
+        "smoothness": "very_horrible",
+        "surface": "unpaved",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Larimer, CO",
+        "tiger:name_base": "Little Sioux",
+        "tiger:name_type": "Trl",
+        "@id": "way/6166784",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5292753,
+          33.813283
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Totem Pole",
+        "@id": "way/7300453",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8674782,
+          38.9309188
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "lane_markings": "no",
+        "maxspeed": "25 mph",
+        "name": "Totem Pole Drive",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "El Paso, CO",
+        "@id": "way/7689322",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8114615,
+          41.3427755
+        ]
+      },
+      "properties": {
+        "access": "private",
+        "highway": "service",
+        "name": "Totem Pole Way",
+        "service": "driveway",
+        "@id": "way/8644234",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.174213,
+          59.8092032
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Totem Pole Avenue",
+        "source:name": "physical road sign",
+        "surface": "gravel",
+        "tiger:reviewed": "yes",
+        "@id": "way/8976187",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3986517,
+          41.2640035
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Totem Pole Lane",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Wayne, PA",
+        "tiger:name_base": "Totem Pole",
+        "tiger:name_type": "Ln",
+        "tiger:reviewed": "no",
+        "@id": "way/12072448",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0775856,
+          34.5368299
+        ]
+      },
+      "properties": {
+        "highway": "service",
+        "name": "Totem Pole Court",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Oconee, SC",
+        "tiger:name_base": "Totem Pole",
+        "tiger:name_type": "Ct",
+        "@id": "way/12502399",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6034055,
+          37.4164605
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Northwest Totem Pole",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Barber, KS",
+        "tiger:name_base": "Totem Pole",
+        "tiger:name_direction_prefix": "NW",
+        "tiger:reviewed": "no",
+        "tiger:separated": "no",
+        "tiger:source": "tiger_import_dch_v0.6_20070810",
+        "tiger:tlid": "160736828:160736829:160722406",
+        "@id": "way/12989893",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.296944,
+          36.2067435
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Totem Pole Court",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Clark, NV",
+        "tiger:name_base": "Totem Pole",
+        "tiger:name_type": "Ct",
+        "tiger:reviewed": "no",
+        "@id": "way/14324209",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5273341,
+          30.25719
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Totem Pole Lane",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Blanco, TX",
+        "tiger:name_base": "Totem Pole",
+        "tiger:name_type": "Ln",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "78636",
+        "tiger:zip_right": "78636",
+        "@id": "way/15130916",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8213174,
+          41.9598855
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Totem Pole Road",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Windham, CT",
+        "tiger:name_base": "Totem Pole",
+        "tiger:name_type": "Rd",
+        "tiger:reviewed": "no",
+        "@id": "way/17171825",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8201213,
+          41.9605719
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Totem Pole Road",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Windham, CT",
+        "tiger:name_base": "Totem Pole",
+        "tiger:name_type": "Rd",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "06277",
+        "tiger:zip_right": "06277",
+        "@id": "way/17171826",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8717655,
+          43.800547
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Totem Pole Road",
+        "name_1": "Chickamauga Pass",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Isabella, MI",
+        "tiger:name_base": "Totem Pole",
+        "tiger:name_base_1": "Chickamauga",
+        "tiger:name_type": "Rd",
+        "tiger:name_type_1": "Pass",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "48622",
+        "tiger:zip_right": "48622",
+        "@id": "way/17822484",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8695765,
+          43.800524
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Totem Pole Road",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Isabella, MI",
+        "tiger:name_base": "Totem Pole",
+        "tiger:name_type": "Rd",
+        "tiger:reviewed": "no",
+        "@id": "way/17822487",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.87118,
+          43.799741
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Totem Pole Road",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Isabella, MI",
+        "tiger:name_base": "Totem Ple",
+        "tiger:name_type": "Rd",
+        "tiger:reviewed": "no",
+        "@id": "way/17823898",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.120543,
+          43.7989277
+        ]
+      },
+      "properties": {
+        "access": "private",
+        "highway": "residential",
+        "name": "Totem Pole Road",
+        "surface": "asphalt",
+        "tiger:cfcc": "A74",
+        "tiger:county": "Carroll, NH",
+        "tiger:reviewed": "no",
+        "@id": "way/18801684",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.925323,
+          41.859957
+        ]
+      },
+      "properties": {
+        "access": "private",
+        "highway": "service",
+        "name": "Totem Pole Road",
+        "service": "driveway",
+        "tiger:cfcc": "A74",
+        "tiger:county": "Ashtabula, OH",
+        "tiger:name_base": "Totem Pole",
+        "tiger:name_type": "Rd",
+        "tiger:reviewed": "no",
+        "@id": "way/18962063",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7777873,
+          38.9517492
+        ]
+      },
+      "properties": {
+        "access": "private",
+        "highway": "residential",
+        "name": "Totem Pole Drive",
+        "ownership": "private",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Brown, OH",
+        "tiger:name_base": "Totem Pole",
+        "tiger:name_type": "Dr",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "45171",
+        "tiger:zip_right": "45171",
+        "@id": "way/18978611",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2365828,
+          39.6505523
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Totem Pole Court",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Montgomery, OH",
+        "tiger:name_base": "Totem Pole",
+        "tiger:name_type": "Ct",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "45449",
+        "tiger:zip_right": "45449",
+        "@id": "way/19195868",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5466066,
+          41.8881487
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Totem Pole Trail",
+        "tiger:cfcc": "A41",
+        "tiger:name_base": "Totem Pole",
+        "tiger:name_type": "Trl",
+        "tiger:reviewed": "no",
+        "@id": "way/19367660",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.238086,
+          43.01426
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Totem Pole Circle",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Onondaga, NY",
+        "tiger:name_base": "Totem Pole",
+        "tiger:name_type": "Cir",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "13031",
+        "tiger:zip_right": "13031",
+        "@id": "way/20139163",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3916677,
+          32.0137018
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Totem Pole",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Hill, TX",
+        "tiger:name_base": "Totem Pole",
+        "tiger:reviewed": "no",
+        "@id": "way/20975490",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4522611,
+          27.5090201
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Totem Pole Lane",
+        "tiger:county": "Webb, TX",
+        "tiger:zip_left": "78043",
+        "@id": "way/21332603",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.885173,
+          41.7584295
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Totem Pole Drive",
+        "tiger:cfcc": "A41",
+        "tiger:county": "DeKalb, IL",
+        "tiger:name_base": "Totem Pole",
+        "tiger:name_type": "Dr",
+        "tiger:reviewed": "no",
+        "@id": "way/21736874",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8839907,
+          41.759161
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Totem Pole Drive",
+        "tiger:cfcc": "A41",
+        "tiger:county": "DeKalb, IL",
+        "tiger:name_base": "Totem Pole",
+        "tiger:name_type": "Dr",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "60550",
+        "@id": "way/21736877",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7855332,
+          41.0515286
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Totem Pole Place",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Westchester, NY",
+        "tiger:name_base": "Totem Pole",
+        "tiger:name_type": "Pl",
+        "tiger:reviewed": "no",
+        "@id": "way/23476662",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5558621,
+          28.8691872
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Totem Pole Terrace",
+        "@id": "way/129825819",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3382555,
+          34.5319607
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "lanes": "2",
+        "name": "Totem Pole Street",
+        "smoothness": "excellent",
+        "source": "bing_imagery_0.25m_201005;SBCA",
+        "source_ref": "AM0395-72",
+        "surface": "asphalt",
+        "@id": "way/149092543",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4204036,
+          28.1810137
+        ]
+      },
+      "properties": {
+        "access": "private",
+        "highway": "residential",
+        "name": "Totem Pole Way",
+        "@id": "way/150279258",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2113765,
+          33.2540749
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Totem Pole Way",
+        "oneway": "no",
+        "@id": "way/153223784",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.8034009,
+          46.9695541
+        ]
+      },
+      "properties": {
+        "leisure": "park",
+        "name": "Totem Pole Park",
+        "@id": "way/155229140",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.0595473,
+          36.9383938
+        ]
+      },
+      "properties": {
+        "alt_name": "Totem Pole Viewpoint access road",
+        "highway": "service",
+        "name": "Totem Pole Overlook access road",
+        "service": "driveway",
+        "@id": "way/162614905",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8146339,
+          44.5655134
+        ]
+      },
+      "properties": {
+        "bridge": "yes",
+        "highway": "tertiary",
+        "lanes": "2",
+        "layer": "1",
+        "name": "Totem Pole Road",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Linn, OR",
+        "tiger:name_base": "Totem Pole",
+        "tiger:name_type": "Rd",
+        "tiger:reviewed": "no",
+        "@id": "way/186423274",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.811903,
+          44.5713432
+        ]
+      },
+      "properties": {
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "Totem Pole Road",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Linn, OR",
+        "tiger:name_base": "Totem Pole",
+        "tiger:name_type": "Rd",
+        "tiger:reviewed": "no",
+        "@id": "way/186423275",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.9860592,
+          38.8708805
+        ]
+      },
+      "properties": {
+        "ele": "2716",
+        "gnis:feature_id": "1795090",
+        "leisure": "park",
+        "name": "Totem Pole Park",
+        "@id": "way/227572039",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.734191,
+          35.2453775
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Totem Pole Lane",
+        "@id": "way/263568152",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3353268,
+          53.3412989
+        ]
+      },
+      "properties": {
+        "addr:city": "Holywell",
+        "addr:country": "GB",
+        "addr:postcode": "CH8 9JN",
+        "amenity": "restaurant",
+        "building": "yes",
+        "fhrs:id": "346696",
+        "name": "The Totem Pole Restaurant",
+        "source:addr:postcode": "FHRS Open Data",
+        "@id": "way/290488068",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1433167,
+          34.7380358
+        ]
+      },
+      "properties": {
+        "highway": "track",
+        "name": "Totem Pole Road",
+        "ref": "FS 69E",
+        "smoothness": "bad",
+        "surface": "gravel",
+        "tracktype": "grade3",
+        "@id": "way/372422116",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3346465,
+          47.602439
+        ]
+      },
+      "properties": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "627",
+        "addr:postcode": "98104",
+        "addr:state": "WA",
+        "addr:street": "1st Avenue",
+        "building": "yes",
+        "building:levels": "2",
+        "building:material": "concrete",
+        "name": "Totem Pole Loand",
+        "source": "data.seattle.gov;https://web.seattle.gov/DPD/HistoricalSite/QueryResult.aspx?ID=-93051350",
+        "start_date": "1908",
+        "@id": "way/397007182",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7811206,
+          45.2605591
+        ]
+      },
+      "properties": {
+        "name": "Totem Pole Pond",
+        "natural": "water",
+        "source": "CANVEC",
+        "@id": "way/425720179",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6605766,
+          45.6797189
+        ]
+      },
+      "properties": {
+        "landuse": "retail",
+        "name": "Totem Pole Plaza",
+        "@id": "way/435743851",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.796569,
+          49.0184348
+        ]
+      },
+      "properties": {
+        "description": "Created to commemorate the 125th anniversary of the RCMP, the totem poles celebrate and honour Semiahmoo First Nation and the RCMP. Installed in 1999.",
+        "name": "Grand Chief Bernard Robert Charles (Pa-Kwatch-Tun) Memorial Plaza",
+        "old_name": "Totem Plaza",
+        "place": "square",
+        "surface": "brick",
+        "website": "https://www.whiterockcity.ca/CivicAlerts.aspx?AID=3105",
+        "@id": "way/474649618",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.9722039,
+          -30.6640955
+        ]
+      },
+      "properties": {
+        "access": "no",
+        "bicycle": "designated",
+        "highway": "path",
+        "name": "Totem Poles",
+        "oneway": "yes",
+        "route": "mtb",
+        "surface": "dirt",
+        "@id": "way/476447536",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.0154799,
+          43.6947156
+        ]
+      },
+      "properties": {
+        "description": "Side road attraction grass area that includes the Rodeo Bunny and a Totem pole at the The Thunderbird Lodge",
+        "landuse": "grass",
+        "@id": "way/552912404",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3667042,
+          48.4197654
+        ]
+      },
+      "properties": {
+        "addr:city": "Victoria",
+        "addr:housenumber": "638",
+        "addr:postcode": "V8V 2P8",
+        "addr:street": "Douglas Street",
+        "description": "Outdoor collection of replica totem poles & historic buildings including a convent & carving studio.",
+        "leisure": "park",
+        "name": "Thunderbird Park",
+        "operator": "Royal British Columbia Museum",
+        "start_date": "1941",
+        "tourism": "museum",
+        "website": "https://royalbcmuseum.bc.ca/exhibits/tbird-park/html/intro/intro.htm",
+        "wikidata": "Q429291",
+        "wikipedia": "en:Thunderbird Park (Victoria, British Columbia)",
+        "@id": "way/554337844",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.2892944,
+          46.5205593
+        ]
+      },
+      "properties": {
+        "addr:city": "Nisswa",
+        "addr:housenumber": "25485",
+        "addr:postcode": "56468",
+        "addr:street": "Main Street",
+        "building": "yes",
+        "name": "Totem Pole",
+        "opening_hours": "Mo-Sa 10:00-17:00; Su 10:00-16:00",
+        "shop": "gift",
+        "@id": "way/582430457",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.607828,
+          35.7402643
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Totem Pole Trail",
+        "source:geometry": "NC Latest Orthoimagery",
+        "source:name": "https://connect.ncdot.gov",
+        "surface": "unpaved",
+        "@id": "way/691640213",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4148045,
+          43.0461
+        ]
+      },
+      "properties": {
+        "addr:city": "Basom",
+        "addr:housenumber": "1031",
+        "addr:postcode": "14013",
+        "addr:state": "NY",
+        "addr:street": "Ledge Road",
+        "building": "yes",
+        "name": "Totem Pole Smoke & Gas",
+        "nysgissam:nysaddresspointid": "GENE009347",
+        "shop": "tobacco",
+        "source": "Sat imagery & Footprts '18",
+        "@id": "way/829914986",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1646863,
+          36.3298355
+        ]
+      },
+      "properties": {
+        "area": "yes",
+        "artwork_type": "statue",
+        "material": "wood",
+        "name": "CDC Totem Pole",
+        "tourism": "artwork",
+        "@id": "way/932558116",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4484517,
+          36.4372879
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "21300",
+        "addr:postcode": "74016",
+        "name": "Ed Galloways Totem Pole Park",
+        "name:en": "Ed Galloways Totem Pole Park",
+        "tourism": "attraction",
+        "wikidata": "Q5334840",
+        "wikipedia": "en:Ed Galloway's Totem Pole Park",
+        "@id": "way/999077779",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.6277654,
+          47.9027825
+        ]
+      },
+      "properties": {
+        "artist_name": "Israel Shotridge",
+        "artwork_type": "totem_pole",
+        "inscription": "kʷoʔliyótʼilo tatíłtal",
+        "man_made": "arch",
+        "tourism": "artwork",
+        "@id": "way/1081006227",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9030812,
+          34.2631326
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Totem Pole Place",
+        "@id": "way/1082427432",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2008905,
+          45.0421855
+        ]
+      },
+      "properties": {
+        "leisure": "park",
+        "name": "Totem Pole Park",
+        "wikidata": "Q49571342",
+        "@id": "way/1213810233",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.005898,
+          -43.1392383
+        ]
+      },
+      "properties": {
+        "description": "Totem Pole is a tiny sea stack between the Candle Stick and the Mainland",
+        "name": "Totem Pole",
+        "natural": "coastline",
+        "note": "Position is approximate; it is between the Candle Stick and Mainland; maybe needs different tagging",
+        "place": "islet",
+        "wikidata": "Q3532718",
+        "@id": "way/1220665871",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.9624297,
+          53.9722245
+        ]
+      },
+      "properties": {
+        "name": "Totem Pole Creek",
+        "source": "NRCan-CanVec-10.0",
+        "waterway": "stream",
+        "@id": "way/1247474909",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.9450956,
+          53.9662122
+        ]
+      },
+      "properties": {
+        "name": "Totem Pole Lake",
+        "natural": "water",
+        "source": "NRCan-CanVec-10.0",
+        "@id": "way/1247475135",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1212329,
+          49.2992028
+        ]
+      },
+      "properties": {
+        "name": "Brockton Point Totem Poles",
+        "tourism": "attraction",
+        "wikidata": "Q107542577",
+        "@id": "way/1253556548",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.961488,
+          -27.4154982
+        ]
+      },
+      "properties": {
+        "area": "yes",
+        "artwork_type": "sculpture",
+        "material": "wood",
+        "name": "Totem Poles",
+        "tourism": "artwork",
+        "@id": "way/1351986701",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3310482,
+          42.4309823
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "addr:city": "Grants Pass",
+        "addr:housenumber": "971",
+        "addr:postcode": "97526",
+        "addr:state": "OR",
+        "addr:street": "Southeast 6th Street",
+        "description": "Evergreen Park was built as part of a beautification effort in 2007. It has several sculptures and memorials dedicated to the local Native American tribes in the Rogue Valley, including a totem pole and several bear sculptures and a memorial plaque",
+        "leisure": "park",
+        "name": "Evergreen Park",
+        "opening_hours": "08:00-22:00",
+        "@id": "way/1396146902",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9754134,
+          52.3207752
+        ]
+      },
+      "properties": {
+        "artist_name": "Jennifer Tee",
+        "artwork_type": "totem_pole",
+        "height": "4.50",
+        "man_made": "totem_pole",
+        "material": "marble",
+        "name": "Open Horizon",
+        "start_date": "2009",
+        "tourism": "artwork",
+        "@id": "way/1463800436",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9761023,
+          52.3200936
+        ]
+      },
+      "properties": {
+        "artist_name": "Jennifer Tee",
+        "artwork_type": "totem_pole",
+        "height": "4.50",
+        "man_made": "totem_pole",
+        "material": "marble",
+        "name": "Unmasked And Far Away",
+        "start_date": "2009",
+        "tourism": "artwork",
+        "@id": "way/1463802390",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9760444,
+          52.3200763
+        ]
+      },
+      "properties": {
+        "artist_name": "Jennifer Tee",
+        "artwork_type": "totem_pole",
+        "height": "4.50",
+        "man_made": "totem_pole",
+        "material": "marble",
+        "name": "The Soul In Limbo",
+        "start_date": "2009",
+        "tourism": "artwork",
+        "@id": "way/1463802391",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9759412,
+          52.3202767
+        ]
+      },
+      "properties": {
+        "artist_name": "Jennifer Tee",
+        "artwork_type": "totem_pole",
+        "height": "4.50",
+        "man_made": "totem_pole",
+        "material": "marble",
+        "name": "Local Myth",
+        "start_date": "2009",
+        "tourism": "artwork",
+        "@id": "way/1463802392",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9758841,
+          52.3202584
+        ]
+      },
+      "properties": {
+        "artist_name": "Jennifer Tee",
+        "artwork_type": "totem_pole",
+        "height": "4.50",
+        "man_made": "totem_pole",
+        "material": "marble",
+        "name": "Be Longing",
+        "start_date": "2009",
+        "tourism": "artwork",
+        "@id": "way/1463802393",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9757838,
+          52.3204488
+        ]
+      },
+      "properties": {
+        "artist_name": "Jennifer Tee",
+        "artwork_type": "totem_pole",
+        "height": "4.50",
+        "man_made": "totem_pole",
+        "material": "marble",
+        "name": "The Everyday",
+        "start_date": "2009",
+        "tourism": "artwork",
+        "@id": "way/1463802394",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9757259,
+          52.3204315
+        ]
+      },
+      "properties": {
+        "artist_name": "Jennifer Tee",
+        "artwork_type": "totem_pole",
+        "height": "4.50",
+        "man_made": "totem_pole",
+        "material": "marble",
+        "name": "Walk of Life",
+        "start_date": "2009",
+        "tourism": "artwork",
+        "@id": "way/1463802395",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9756272,
+          52.3206209
+        ]
+      },
+      "properties": {
+        "artist_name": "Jennifer Tee",
+        "artwork_type": "totem_pole",
+        "height": "4.50",
+        "man_made": "totem_pole",
+        "material": "marble",
+        "name": "Public Assembly",
+        "start_date": "2009",
+        "tourism": "artwork",
+        "@id": "way/1463802396",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9755711,
+          52.3206016
+        ]
+      },
+      "properties": {
+        "artist_name": "Jennifer Tee",
+        "artwork_type": "totem_pole",
+        "height": "4.50",
+        "man_made": "totem_pole",
+        "material": "marble",
+        "name": "Origin Present",
+        "start_date": "2009",
+        "tourism": "artwork",
+        "@id": "way/1463802397",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9754684,
+          52.3207958
+        ]
+      },
+      "properties": {
+        "artist_name": "Jennifer Tee",
+        "artwork_type": "totem_pole",
+        "height": "4.50",
+        "man_made": "totem_pole",
+        "material": "marble",
+        "name": "Tussen Staat",
+        "start_date": "2009",
+        "tourism": "artwork",
+        "@id": "way/1463802398",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6133397,
+          48.7940256
+        ]
+      },
+      "properties": {
+        "area": "yes",
+        "artwork_subject": "orca",
+        "artwork_type": "totem_pole",
+        "direction": "160",
+        "orientation": "horizontal",
+        "tourism": "artwork",
+        "@id": "way/1501250153",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9757578,
+          52.320436
+        ]
+      },
+      "properties": {
+        "artist_name": "Jennifer Tee",
+        "artwork_type": "totem_pole",
+        "height": "4.50",
+        "man_made": "totem_pole",
+        "material": "marble",
+        "name": "Totem Today",
+        "start_date": "2009",
+        "tourism": "artwork",
+        "type": "multipolygon",
+        "website": "https://amsterdam.kunstwacht.nl/kunstwerken/bekijk/9527-totem-today",
+        "@id": "relation/20041517",
+        "@type": "relation"
       }
     }
   ]
