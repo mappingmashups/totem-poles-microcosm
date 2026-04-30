@@ -8,4 +8,4 @@ nwr["culture"="totem pole"];
 nwr["name"~"Totem Pole",i];
 nwr["description"~"Totem Pole",i];
 );
-out meta;
+out center meta;
