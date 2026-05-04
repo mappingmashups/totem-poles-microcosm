@@ -9010,6 +9010,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -86.2035498,
+          42.6444696
+        ]
+      },
+      "properties": {
+        "artwork_type": "sculpture",
+        "name": "Saugatuck Totem Pole",
+        "tourism": "artwork",
+        "@id": "node/13792437469",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.8184749,
           44.5641024
         ]
